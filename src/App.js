@@ -75,7 +75,6 @@ function App() {
 
   return (
     <>
-    <h1 className="gameTitle">Let's Play Tic Tac Toe</h1>
     <div className="App">
       <div className="board">
         <div className="row">
